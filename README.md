@@ -64,6 +64,6 @@ The brand identity needed to feel **fun, modern, and welcoming**.
 ---
 
 ## 👩‍💻 Author  
-Designed by [Your Name](https://github.com/yourusername)  
+Designed by Shraddha by Pixel Auro Studio 
 
 ---
