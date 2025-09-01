@@ -42,7 +42,7 @@ The brand identity needed to feel **fun, modern, and welcoming**.
 - ✅ Website Logo (PNG, SVG)  
 - ✅ Social Media Circle Logo (PNG, SVG)  
 - ✅ Mockups (Instagram & Website Previews)  
-- ✅ Editable Source File (.AI / .PSD)  
+ 
 
 ---
 
@@ -58,7 +58,7 @@ The brand identity needed to feel **fun, modern, and welcoming**.
 
 ## 🛠️ Tools Used  
 - **Adobe Illustrator** → vector design  
-- **Photoshop / Figma** → mockups  
+- ** Figma** → mockups  
 - **GitHub** → project showcase  
 
 ---
